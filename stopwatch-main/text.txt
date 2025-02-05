@@ -1,0 +1,5 @@
+Este Projeto foi criado apartir do video https://youtu.be/AwnMzZSBn34?si=owp_pAIMYRRUgBx_
+
+Teve uma pequena aprimoramento, add uma validação para o marcador, 
+onde se o cronometro estiver parado ou em pause uma mensagem de alerte informar que é 
+necessario iniciar o cronometro para que o marcador seja validado.
